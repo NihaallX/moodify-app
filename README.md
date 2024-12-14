@@ -45,4 +45,4 @@ Contribute code or designs
 License 📜
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-This version removes the voice feature mention, adjusts the description to reflect the under-development status, and includes headers and sub-headers for better organization. Feel free to update this further as your project progresses!
+
